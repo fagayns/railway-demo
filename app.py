@@ -1,3 +1,4 @@
-@app.route('/')
-def home():
-    return '<h1>Обновлено!</h1>'
+@add.route('/')
+def home()
+	return '<h1>Обновлено!<h1>'
+
